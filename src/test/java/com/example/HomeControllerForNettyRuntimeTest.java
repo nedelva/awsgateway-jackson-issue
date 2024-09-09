@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 //UNCOMMENT this class to test when using Netty runtime
 /*
 @MicronautTest
-class HomeControllerTest {
+class HomeControllerForNettyRuntimeTest {
 
     @Inject
     @Client("/")
